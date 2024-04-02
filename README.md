@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zainhubb&show_icons=true&hide_border=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff" />
+
 ![GitHub Profile views](https://komarev.com/ghpvc/?username=zainhubb&style=for-the-badge&color=brightgreen)
 <!--
 **zainhubb/zainhubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
