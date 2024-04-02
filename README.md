@@ -1,5 +1,5 @@
 ### Hi there 👋
-                    ![GitHub Profile views](https://komarev.com/ghpvc/?username=zainhubb&style=for-the-badge&color=brightgreen)
+![GitHub Profile views](https://komarev.com/ghpvc/?username=zainhubb&style=for-the-badge&color=brightgreen)
 <!--
 **zainhubb/zainhubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
